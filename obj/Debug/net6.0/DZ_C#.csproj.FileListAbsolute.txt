@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DZ_C#\bin\Debug\net6.0\DZ_C#.exe
+C:\Users\Lenovo\Desktop\DZ_C#\bin\Debug\net6.0\DZ_C#.deps.json
+C:\Users\Lenovo\Desktop\DZ_C#\bin\Debug\net6.0\DZ_C#.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DZ_C#\bin\Debug\net6.0\DZ_C#.dll
+C:\Users\Lenovo\Desktop\DZ_C#\bin\Debug\net6.0\DZ_C#.pdb
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.dll
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\refint\DZ_C#.dll
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.pdb
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\DZ_C#.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\DZ_C#\obj\Debug\net6.0\ref\DZ_C#.dll
